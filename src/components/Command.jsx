@@ -15,7 +15,7 @@ const Command = () => {
         <span className="text-blue-500">parth &gt;&gt;</span>
         <input
         ref={inputref}
-          className="md:w-[80%] text-white bg-black focus:outline-none"
+          className="w-[60%] md:w-[80%] text-white bg-black focus:outline-none"
           type="text"
           onKeyDown={(e) => {
             if (e.key === "Enter") {

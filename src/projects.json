@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Imaginize",
+    "desc" : "An AI Image Generator that turns prompt into beatiful work of art, turning Ideas into reality",
+    "image": "/p1.png",
+    "live": "https://heartfelt-souffle-f75ce8.netlify.app/",
+    "github": "https://github.com/ParthBhuva97/Imaginize"
+  },
+  {
+    "name": "Cryptodiction",
+    "desc" : "Unveiling the world of Crypto with a web-app that guides you through the crypto-world",
+    "image": "/p2.png",
+    "live": "https://musical-faun-9c58bd.netlify.app/#/",
+    "github": "https://github.com/ParthBhuva97/Cryptodiction"
+  },
+  {
+    "name": "Google Translate Clone",
+    "desc": "Breaking the language barrier using Text Translate and Text to Speech Functionalities.",
+    "image": "/p3.png",
+    "live": "https://imaginative-syrniki-b095a7.netlify.app/",
+    "github": "https://github.com/ParthBhuva97/Translator"
+  }
+]
